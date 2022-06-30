@@ -1,0 +1,15 @@
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.AssemblyReference.cache
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfoInputs.cache
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.AssemblyInfo.cs
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.csproj.CoreCompileInputs.cache
+D:\Repos\ReverseInteger\bin\Debug\net6.0\ReverseInteger.exe
+D:\Repos\ReverseInteger\bin\Debug\net6.0\ReverseInteger.deps.json
+D:\Repos\ReverseInteger\bin\Debug\net6.0\ReverseInteger.runtimeconfig.json
+D:\Repos\ReverseInteger\bin\Debug\net6.0\ReverseInteger.dll
+D:\Repos\ReverseInteger\bin\Debug\net6.0\ReverseInteger.pdb
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.dll
+D:\Repos\ReverseInteger\obj\Debug\net6.0\refint\ReverseInteger.dll
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.pdb
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ReverseInteger.genruntimeconfig.cache
+D:\Repos\ReverseInteger\obj\Debug\net6.0\ref\ReverseInteger.dll
