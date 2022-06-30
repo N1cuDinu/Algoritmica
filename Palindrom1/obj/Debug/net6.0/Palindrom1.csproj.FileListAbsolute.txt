@@ -1,0 +1,15 @@
+D:\Repos\Palindrom1\bin\Debug\net6.0\Palindrom1.exe
+D:\Repos\Palindrom1\bin\Debug\net6.0\Palindrom1.deps.json
+D:\Repos\Palindrom1\bin\Debug\net6.0\Palindrom1.runtimeconfig.json
+D:\Repos\Palindrom1\bin\Debug\net6.0\Palindrom1.dll
+D:\Repos\Palindrom1\bin\Debug\net6.0\Palindrom1.pdb
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.csproj.AssemblyReference.cache
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.AssemblyInfoInputs.cache
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.AssemblyInfo.cs
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.csproj.CoreCompileInputs.cache
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.dll
+D:\Repos\Palindrom1\obj\Debug\net6.0\refint\Palindrom1.dll
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.pdb
+D:\Repos\Palindrom1\obj\Debug\net6.0\Palindrom1.genruntimeconfig.cache
+D:\Repos\Palindrom1\obj\Debug\net6.0\ref\Palindrom1.dll
