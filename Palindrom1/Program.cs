@@ -29,5 +29,18 @@ namespace Palindrom1 // Note: actual namespace depends on the project name.
             return new string(rev);
         }
 
+        //public static string Palindrome(string s)
+        //{
+        //    char[] sir = s.ToCharArray();
+        //    Array.Reverse(rev);
+        //    for (int i = 0; i > sir.Length; i++)
+        //    {
+        //        if (sir[i] == )
+        //    }
+
+        //    return new string(pal);
+        //}
+
+
     }
 }
