@@ -1,0 +1,15 @@
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.csproj.AssemblyReference.cache
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.AssemblyInfoInputs.cache
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.AssemblyInfo.cs
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.csproj.CoreCompileInputs.cache
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\bin\Debug\net6.0\MostUsedChar.exe
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\bin\Debug\net6.0\MostUsedChar.deps.json
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\bin\Debug\net6.0\MostUsedChar.runtimeconfig.json
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\bin\Debug\net6.0\MostUsedChar.dll
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\bin\Debug\net6.0\MostUsedChar.pdb
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.dll
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\refint\MostUsedChar.dll
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.pdb
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\MostUsedChar.genruntimeconfig.cache
+C:\Users\DinuN\Source\Repos\N1cuDinu\Algoritmica\MostUsedChar\obj\Debug\net6.0\ref\MostUsedChar.dll

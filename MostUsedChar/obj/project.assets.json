@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
+      "projectUniqueName": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
       "projectName": "MostUsedChar",
-      "projectPath": "D:\\Repos\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
+      "projectPath": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
       "packagesPath": "C:\\Users\\DinuN\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Algoritmica\\MostUsedChar\\obj\\",
+      "outputPath": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
