@@ -18,15 +18,11 @@ namespace Palindrom1 // Note: actual namespace depends on the project name.
             {
                 Console.WriteLine("Nu este palindrom");
             }
-            
-
         }
 
         public static string ReverseString(string s)
         {
-            char[] rev = s.ToCharArray();
-            Array.Reverse(rev);
-            return new string(rev);
+            return string.Join("", s.Reverse());
         }
 
         //public static string Palindrome(string s)
@@ -41,6 +37,8 @@ namespace Palindrom1 // Note: actual namespace depends on the project name.
         //    return new string(pal);
         //}
 
+
+        //recursiune
 
     }
 }

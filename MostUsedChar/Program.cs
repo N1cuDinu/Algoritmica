@@ -13,6 +13,7 @@ namespace MostUsedChar // Note: actual namespace depends on the project name.
 
         static char countChar(string s)
         {
+            //dictionar
             int []charCounter = new int[256];
             for(int i=0; i < s.Length; i++)
             {
