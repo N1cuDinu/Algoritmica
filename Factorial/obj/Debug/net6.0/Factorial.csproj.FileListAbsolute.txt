@@ -1,0 +1,15 @@
+D:\Repos\Algoritmica\Factorial\bin\Debug\net6.0\Factorial.exe
+D:\Repos\Algoritmica\Factorial\bin\Debug\net6.0\Factorial.deps.json
+D:\Repos\Algoritmica\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+D:\Repos\Algoritmica\Factorial\bin\Debug\net6.0\Factorial.dll
+D:\Repos\Algoritmica\Factorial\bin\Debug\net6.0\Factorial.pdb
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.dll
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.pdb
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+D:\Repos\Algoritmica\Factorial\obj\Debug\net6.0\ref\Factorial.dll

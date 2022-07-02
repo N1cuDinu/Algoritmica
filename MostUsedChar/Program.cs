@@ -30,5 +30,25 @@ namespace MostUsedChar // Note: actual namespace depends on the project name.
             }
             return caract;
         }
+
+        static string countCharDictionar(string word)
+        {
+
+            Dictionary<string, int> dic = new Dictionary<string, int>();
+
+            for(int i=0; i<word.Length; i++)
+            {
+                if (dic.ContainsKey(word[i]))
+                {
+                    dic[word[i]] = dic[word[i]];
+                }
+                else
+                {
+                    dic.Add(word[i], 1);
+                }
+            }
+
+            return caracter;
+        }
     }
 }

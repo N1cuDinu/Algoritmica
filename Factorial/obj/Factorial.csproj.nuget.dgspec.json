@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj": {}
+    "D:\\Repos\\Algoritmica\\Factorial\\Factorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj": {
+    "D:\\Repos\\Algoritmica\\Factorial\\Factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
-        "projectName": "MostUsedChar",
-        "projectPath": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\MostUsedChar.csproj",
+        "projectUniqueName": "D:\\Repos\\Algoritmica\\Factorial\\Factorial.csproj",
+        "projectName": "Factorial",
+        "projectPath": "D:\\Repos\\Algoritmica\\Factorial\\Factorial.csproj",
         "packagesPath": "C:\\Users\\DinuN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DinuN\\Source\\Repos\\N1cuDinu\\Algoritmica\\MostUsedChar\\obj\\",
+        "outputPath": "D:\\Repos\\Algoritmica\\Factorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

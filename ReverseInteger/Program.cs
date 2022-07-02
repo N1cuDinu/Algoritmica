@@ -17,7 +17,7 @@ namespace ReverseInteger // Note: actual namespace depends on the project name.
             while (number != 0)
             {
                 try {
-                    checked{ 
+                    checked{
                     reverse = reverse * 10 + number % 10;
                     number = number / 10;
                     }
