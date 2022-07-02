@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DinuN\\Source\\Repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj": {}
+    "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DinuN\\Source\\Repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj": {
+    "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DinuN\\Source\\Repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj",
+        "projectUniqueName": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj",
         "projectName": "Palindrom1",
-        "projectPath": "C:\\Users\\DinuN\\Source\\Repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj",
+        "projectPath": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\Palindrom1\\Palindrom1.csproj",
         "packagesPath": "C:\\Users\\DinuN\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DinuN\\source\\repos\\N1cuDinu\\Algoritmica\\Palindrom1\\obj\\",
         "projectStyle": "PackageReference",
